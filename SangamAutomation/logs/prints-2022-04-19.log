@@ -1,0 +1,6 @@
+00:53:02.280 [main] INFO  resources.copy.Base - driver is iniitialized here!
+00:53:04.116 [main] INFO  resources.copy.Base - Property value for url is captured
+00:53:04.291 [main] INFO  resources.copy.Base - maximized the browser sucesfully
+00:53:05.112 [main] INFO  resources.copy.Base - Capturd the username -> yd276vijay@gmail.com from the dataprovider/ Excel sheet
+00:53:05.274 [main] INFO  resources.copy.Base - Capturd the username -> BaBaji@thulu from the dataprovider
+00:53:05.344 [main] INFO  resources.copy.Base - clicked on the login button

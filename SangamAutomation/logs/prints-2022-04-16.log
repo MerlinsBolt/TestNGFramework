@@ -1,0 +1,6 @@
+23:20:20.839 [main] INFO  resources.copy.Base - driver is iniitialized here!
+23:20:22.184 [main] INFO  resources.copy.Base - Property value for url is captured
+23:20:22.318 [main] INFO  resources.copy.Base - maximized the browser sucesfully
+23:20:22.480 [main] INFO  resources.copy.Base - Capturd the username -> yd276vijay@gmail.com from the dataprovider
+23:20:22.619 [main] INFO  resources.copy.Base - Capturd the username -> BaBaji@thulu from the dataprovider
+23:20:22.669 [main] INFO  resources.copy.Base - clicked on the login button
