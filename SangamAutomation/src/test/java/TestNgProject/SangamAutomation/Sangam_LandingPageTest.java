@@ -82,7 +82,7 @@ public class Sangam_LandingPageTest extends Base{
 		hp.coverPhotoBUtton().click();
 		log.info("clicked on the Edit Profile Photo button");
 		Thread.sleep(2000); // added just to see if its correctly going in the UI.
-		Assert.assertEquals("Vijay", "Yadav"); // use this to fail the test on purpose
+		//Assert.assertEquals("Vijay", "Yadav"); // use this to fail the test on purpose
 		
 	}
 	
